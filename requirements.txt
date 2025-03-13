@@ -1,1 +1,7 @@
-tbd
+ipdb
+tqdm
+sentencepiece
+jupyter
+wandb
+pytorch
+
