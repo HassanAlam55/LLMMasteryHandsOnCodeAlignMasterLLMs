@@ -7,3 +7,6 @@ wiki_tokenizer.model
 wiki_tokenizer.vocab
 models/
 wandb/
+llm_train(1).zip
+transformer-architecture-javier-ideami.jpg
+.env
